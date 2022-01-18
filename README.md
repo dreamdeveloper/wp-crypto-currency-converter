@@ -23,7 +23,7 @@ like this: **"echo do_shortocde("[ccc-conversion]");** and  **"echo do_shortocde
 The data for converions is refreshed every 5 minutes, in order to refresh the data forcibly, click
 the Refresh button in the upper right corner.
 Also, to force a data refresh, you can do it through the command line
-using the command: wp ccc-refresh-data
+using the command: **wp ccc-refresh-data**
 
 ## Usage
 ```php
