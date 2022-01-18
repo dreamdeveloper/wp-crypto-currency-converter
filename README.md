@@ -18,14 +18,8 @@ coinmarketcap, displaying data using a shortcode. You can display the
 last conversion data on the page with shortocde **"[ccc-list-data]"**, and
 you can use the Shortcode for display the Conversion Widget
 **"[ccc-conversion]"** or in the php file of your theme you can use it
-like this: 
-```php 
-echo do_shortocde("[ccc-conversion]");
-``` 
-and 
-```php 
-echo do_shortocde("[ccc-list-data]");
-```. 
+like this: **"echo do_shortocde("[ccc-conversion]");** and  **"echo do_shortocde("[ccc-list-data]");"**
+ 
 The data for converions is refreshed every 5 minutes, in order to refresh the data forcibly, click
 the Refresh button in the upper right corner.
 Also, to force a data refresh, you can do it through the command line
