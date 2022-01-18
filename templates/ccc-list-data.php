@@ -12,7 +12,7 @@
 ?>
 <div id="wp-crypto-currency-converter">
 
-    <h4><?php esc_html_e( 'Last Converions', $plugin_textdomain ); ?></h4>
+    <h4><?php esc_html_e( 'Last conversions', $plugin_textdomain ); ?></h4>
 
     <table>
         <thead>

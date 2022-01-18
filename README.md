@@ -20,7 +20,7 @@ you can use the Shortcode for display the Conversion Widget
 **"[ccc-conversion]"** or in the php file of your theme you can use it
 like this: **"echo do_shortocde("[ccc-conversion]");** and  **"echo do_shortocde("[ccc-list-data]");"**
  
-The data for converions is refreshed every 5 minutes, in order to refresh the data forcibly, click
+The data for conversions is refreshed every 5 minutes, in order to refresh the data forcibly, click
 the Refresh button in the upper right corner.
 Also, to force a data refresh, you can do it through the command line
 using the command: **wp ccc-refresh-data**

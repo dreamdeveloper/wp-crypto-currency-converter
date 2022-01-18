@@ -22,9 +22,9 @@
         </p>
     </div>
 
-    <h2><?php esc_html_e( 'List Converions Data', $plugin_textdomain ); ?></h2>
+    <h2><?php esc_html_e( 'List conversions Data', $plugin_textdomain ); ?></h2>
     <p class="desc"><?php _e("You can display the last conversion data on the page with shortocde <strong>\"[ccc-list-data]\"</strong>, and you can use the Shortcode for display the Conversion Widget <strong>\"[ccc-conversion]\"</strong> or in the php file of your theme you can use it like this: <strong>\"echo do_shortocde(\"[ccc-conversion]\");\"</strong> and <strong>\"echo do_shortocde(\"[ccc-list-data]\");\"</strong>. <br>
-    The data for converions is refreshed every 5 minutes, in order to refresh the data forcibly, click the <strong>Refresh</strong> button in the upper right corner.<br><br>
+    The data for conversions is refreshed every 5 minutes, in order to refresh the data forcibly, click the <strong>Refresh</strong> button in the upper right corner.<br><br>
     Also, to force a data refresh, you can do it through the command line using the command: <strong>wp ccc-refresh-data</strong>", $plugin_textdomain); ?></p>
 
     <div class="pagination">
