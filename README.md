@@ -26,11 +26,9 @@ Also, to force a data refresh, you can do it through the command line
 using the command: wp ccc-refresh-data
 
 ## Usage
-```
-<?php 
+```php
     echo do_shortocde("[ccc-conversion]");
     echo do_shortocde("[ccc-list-data]");
-?>
 ```
 
 
