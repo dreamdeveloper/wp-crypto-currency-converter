@@ -1,0 +1,123 @@
+pre {
+    display: inline-block;
+}
+
+p.desc {
+    font-style: italic;
+    color: #777;
+}
+
+#wp-crypto-currency-converter table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 1em;
+    font-family: sans-serif;
+    min-width: 100%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+
+#wp-crypto-currency-converter  thead tr {
+    background-color: #3582c4;
+    color: #ffffff;
+    text-align: left;
+}
+
+#wp-crypto-currency-converter th,
+#wp-crypto-currency-converter td {
+    padding: 12px 15px;
+}
+
+#wp-crypto-currency-converter  tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+#wp-crypto-currency-converter  tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+#wp-crypto-currency-converter  tbody tr:last-of-type {
+    border-bottom: 2px solid #3582c4;
+}
+
+#wp-crypto-currency-converter  tbody tr.active-row {
+    font-weight: bold;
+    color: #3582c4;
+}
+
+#wp-crypto-currency-converter .menu-head {
+    height: 58px;
+    background-color: #fff;
+    font-size: 14px;
+    margin: 0 0 20px 0;
+    padding: 0 20px;
+}
+
+#wp-crypto-currency-converter .menu-head a.tab  {
+    border-bottom: 2px solid #fff;
+    box-shadow: none;
+    color: #666;
+    display: inline-block;
+    margin-right: 30px;
+    padding: 20px 0 18px 0;
+    text-decoration: none;
+}
+
+#wp-crypto-currency-converter .menu-head a.tab.active {
+    border-bottom: 2px solid #FF982D;
+}
+
+#wp-crypto-currency-converter .menu-head a.tab:hover {
+    border-color: #999;
+}
+
+#wp-crypto-currency-converter .ccc-submit {
+    float: right;
+}
+
+#wp-crypto-currency-converter .ccc-orange {
+    background-color: #FF982D;
+    border-color: #FF982D;
+    color: #fff;
+}
+
+#wp-crypto-currency-converter .ccc-orange:hover {
+    background-color: #f97f00;
+    border-color: #f97f00;
+}
+
+#wp-crypto-currency-converter .ccc-md {
+    font-size: 13px;
+    font-weight: 600;
+    padding: 8px 12px;
+    min-height: 35px;
+}
+
+#wp-crypto-currency-converter .ccc-button {
+    border: 0;
+    border-radius: 3px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 0;
+    text-decoration: none;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    text-shadow: none;
+    box-shadow: none;
+    outline: none;
+}
+
+.page-numbers {
+	display: inline-block;
+	padding: 5px 10px;
+	margin: 0 2px 0 0;
+	border: 1px solid #eee;
+	line-height: 1;
+	text-decoration: none;
+	border-radius: 2px;
+	font-weight: 600;
+}
+.page-numbers.current,
+a.page-numbers:hover {
+	background: #f9f9f9;
+}

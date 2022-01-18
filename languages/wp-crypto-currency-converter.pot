@@ -1,0 +1,38 @@
+# Copyright (C) 2022 Alexey Kiriushyn
+# This file is distributed under the GPL v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Crypto Currency Converter 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-crypto-currency-converter\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-01-18T14:30:21+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wp-crypto-currency-converter\n"
+
+#. Plugin Name of the plugin
+#: src/Menu.php:36
+#: src/Menu.php:37
+msgid "WP Crypto Currency Converter"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "#"
+msgstr ""
+
+#. Description of the plugin
+msgid "Working with the API of a third-party resource, displaying data using a shortcode."
+msgstr ""
+
+#. Author of the plugin
+msgid "Alexey Kiriushyn"
+msgstr ""
+
+#: src/Init.php:130
+msgid "The data has been updated successfully."
+msgstr ""
