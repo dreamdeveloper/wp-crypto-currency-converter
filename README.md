@@ -26,10 +26,12 @@ Also, to force a data refresh, you can do it through the command line
 using the command: wp ccc-refresh-data
 
 ## Usage
+```
 <?php 
     echo do_shortocde("[ccc-conversion]");
     echo do_shortocde("[ccc-list-data]");
 ?>
+```
 
 
 ## Installation 
@@ -38,4 +40,5 @@ using the command: wp ccc-refresh-data
 3. Place "do\_shortocde("\[ccc-conversion\]");" or "do\_shortocde("\[ccc-list-data\]");" in your templates.
 
 ## Changelog 
-== = 1.0.0 = * Initial release.
+== = 1.0.0 = 
+* Initial release.
