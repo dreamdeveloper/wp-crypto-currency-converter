@@ -21,8 +21,8 @@ Also, to force a data refresh, you can do it through the command line
 using the command: wp ccc-refresh-data
 
 \== Installation == 1. Upload "wp-crypto-currency-converter" to the
-"/wp-content/plugins/" directory. 1. Activate the plugin through the
-"Plugins" menu in WordPress. 1. Place
+"/wp-content/plugins/" directory. 2. Activate the plugin through the
+"Plugins" menu in WordPress. 3. Place
 "do\_shortocde("\[ccc-conversion\]");" or
 "do\_shortocde("\[ccc-list-data\]");" in your templates.
 
